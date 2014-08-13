@@ -1,0 +1,7 @@
+*.pyc
+.idea
+*.egg-info/
+virtualenv
+.DS_Store
+build/
+dist/
