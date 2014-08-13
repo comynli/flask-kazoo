@@ -9,7 +9,7 @@ with open('README.md') as fp:
     long_description = fp.read()
 
 setup(
-    name='Flask-ElasticSearch',
+    name='Flask-Kazoo',
     version='0.1',
     download_url='https://github.com/lixm/flask-kazoo/',
     license='BSD',
